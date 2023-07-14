@@ -4,7 +4,7 @@
 TG Codes💛 - Digital Clock
 ## Description 
 
-TG Codes💛 - Circular progress bar is a visually appealing and customizable HTML, CSS, and JavaScript code that creates a circular progress bar with a gradient color effect. It features a smooth animation, dynamic percentage display, and responsive design. Use it to showcase progress in a stylish and engaging way. Perfect for web development projects, personal portfolios, and more.
+TG Codes💛 - Digital Clock is a GitHub repository showcasing a stylish and modern digital clock created using HTML, CSS, and JavaScript. With a vibrant color scheme, gradient background, and accurate time display in hours, minutes, and seconds, this clock adds a visually appealing element to your web projects.
 
 
 
